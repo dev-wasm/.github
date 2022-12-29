@@ -10,6 +10,7 @@ Currently, containers are available for:
 * [Python](https://github.com/dev-wasm/dev-wasm-python)
 * [Rust](https://github.com/dev-wasm/dev-wasm-rust)
 * [AssemblyScript/TypeScript](https://github.com/dev-wasm/dev-wasm-ts)
+* [Zig](https://github.com/dev-wasm/dev-wasm-zig)
 
 # Usage
 Devcontainers are development environments for Github Codespaces and Visual Studio Code (and possibly other) places.
